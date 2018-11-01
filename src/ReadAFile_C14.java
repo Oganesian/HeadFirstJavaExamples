@@ -5,7 +5,7 @@ import java.io.FileReader;
 public class ReadAFile_C14 {
     public void go() {
         try {
-            File file = new File("MyFile.txt");
+            File file = new File("MyFile_C14.txt");
             FileReader fileReader = new FileReader(file);
             BufferedReader reader = new BufferedReader(fileReader);
 
