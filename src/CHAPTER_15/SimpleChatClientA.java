@@ -10,7 +10,7 @@ import java.io.InputStreamReader;
 import java.io.PrintWriter;
 import java.net.Socket;
 
-public class SimpleChatClientA_C15 {
+public class SimpleChatClientA {
     JTextArea incoming;
     JTextField outgoing;
     BufferedReader reader;

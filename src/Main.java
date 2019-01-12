@@ -7,18 +7,18 @@ public class Main {
 
         // CHAPTER 14
 
-        // ReadAFile_C14 readAFile_c14 = new ReadAFile_C14();
-        // readAFile_c14.go();
+        // ReadAFile readAFile = new ReadAFile();
+        // readAFile.go();
 
         // CHAPTER 15
 
-        // DailyAdviceServer_C15 server = new DailyAdviceServer_C15();
+        // DailyAdviceServer server = new DailyAdviceServer();
         // server.go();
-        // DailyAdviceClient_С15 client = new DailyAdviceClient_С15();
+        // DailyAdviceClient client = new DailyAdviceClient();
         // client.go();
-        // new SimpleChatClientA_C15().go();
+        // new SimpleChatClientA().go();
 
         // CHAPTER 16
-        new Jukebox1_C16().go();
+        new Jukebox1().go();
     }
 }

@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 
 
-public class Jukebox1_C16 {
+public class Jukebox1 {
     ArrayList<String> songList = new ArrayList<String>();
 
     public void go() {

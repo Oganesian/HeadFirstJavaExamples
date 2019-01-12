@@ -4,7 +4,7 @@ import java.io.*;
 import java.net.*;
 
 
-public class DailyAdviceServer_C15 {
+public class DailyAdviceServer {
     String[] adviceList = {"Advice 1", "Advice 2", "Advice 3", "Advice 4"};
 
     public void go() {

@@ -4,7 +4,7 @@ import java.io.*;
 import java.net.*;
 import java.util.*;
 
-public class VerySimpleChatServer_C15 {
+public class VerySimpleChatServer {
     ArrayList clientOutputStreams;
 
     public class ClientHanlder implements Runnable {
@@ -31,7 +31,7 @@ public class VerySimpleChatServer_C15 {
     }
 
     public static void main(String[] args){
-        new VerySimpleChatServer_C15().go();
+        new VerySimpleChatServer().go();
     }
 
     public void go() {
