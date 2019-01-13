@@ -17,6 +17,7 @@ public class Main {
         // new SimpleChatClientA().go();
 
         // CHAPTER 16
-        new Jukebox().go();
+        //new Jukebox().go();
+        new TestMap().go();
     }
 }
