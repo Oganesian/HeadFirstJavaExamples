@@ -18,6 +18,7 @@ public class Main {
 
         // CHAPTER 16
         //new Jukebox().go();
-        new TestMap().go();
+        //new TestMap().go();
+        new TestGenerics().go();
     }
 }
