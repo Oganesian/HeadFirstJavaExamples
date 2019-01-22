@@ -1,4 +1,4 @@
-package CHAPTER_16;
+package chapter16;
 
 class Song implements Comparable<Song> {
     String title;

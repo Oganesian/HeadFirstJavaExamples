@@ -1,4 +1,4 @@
-package CHAPTER_16;
+package chapter16;
 
 import java.util.HashMap;
 

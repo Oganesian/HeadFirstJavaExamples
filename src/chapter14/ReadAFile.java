@@ -1,4 +1,4 @@
-package CHAPTER_14;
+package chapter14;
 
 import java.io.BufferedReader;
 import java.io.File;

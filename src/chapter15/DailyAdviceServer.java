@@ -1,4 +1,4 @@
-package CHAPTER_15;
+package chapter15;
 
 import java.io.*;
 import java.net.*;

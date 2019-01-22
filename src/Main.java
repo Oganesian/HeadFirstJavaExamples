@@ -1,4 +1,4 @@
-import CHAPTER_16.*;
+import chapter16.*;
 
 public class Main {
     public static void main(String[] args) {
